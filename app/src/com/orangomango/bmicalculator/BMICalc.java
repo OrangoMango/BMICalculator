@@ -13,7 +13,8 @@ public class BMICalc {
 
   /**
    * method that calculates the BMI
-   * @param height, weight
+   * @param height 
+   * @param weight
    * @return bmi (weight / height ^ 2)
   */
   public static double calcBMI(int height, int weight){
